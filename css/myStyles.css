@@ -1,0 +1,85 @@
+body{
+    background-color: blanchedalmond;
+    font-weight:bold;
+   
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+
+}
+
+
+.listStyle{
+    font-size: 20px;
+    color: maroon;
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.attributes{
+    color: darkgreen;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.youtubeVideo{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    
+}
+
+.anchor {
+
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #020005;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.tableauView{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+
+footer{
+    position: fixed;
+    bottom: 5 px;
+    
+
+}
